@@ -1,3 +1,5 @@
 # Algorithm
 
-[selectionSroting](https://github.com/Kimbogyung/Algorithm/blob/main/homework/selectionSorting.pde)
+
+[selectionSorting](https://github.com/Kimbogyung/Algorithm/blob/main/homework/selectionSorting.pde)
+![Alt homework11](homework/selectingSort.png)
