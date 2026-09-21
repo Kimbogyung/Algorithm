@@ -14,3 +14,6 @@
 
 [QuickSorting](https://github.com/Kimbogyung/Algorithm/blob/main/homework/quickSorting.pde)
 ![Alt homework11](homework/QuickSorting.png)
+
+[HeapSorting](https://github.com/Kimbogyung/Algorithm/blob/main/homework/heapSort.pde)
+![Alt homework11](homework/heapSort.png)
