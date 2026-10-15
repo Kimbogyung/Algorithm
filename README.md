@@ -21,5 +21,7 @@
 [Array_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/Array_bubble.pde)
 
 [BinarySearchTree](https://github.com/Kimbogyung/Algorithm/blob/main/homework/BinarySearchTree.pde)
+![Alt homework11](homework/BinarySearchTree.png)
+
 
 [SortAnimation_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/SortAnimation_bubble.pde)
