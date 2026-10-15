@@ -26,3 +26,8 @@
 
 [SortAnimation_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/SortAnimation_bubble.pde)
 ![Alt homework11](homework/SortAnimation_bubble.png)
+
+[BinarySearchTree_inorder_preorder_postorder](https://github.com/Kimbogyung/Algorithm/blob/main/homework/BinarySearchTree_inorder_preorder_postorder.pde)
+![Alt homework11](homework/BinarySearchTree_inorder_preorder_postorder.png)
+
+
