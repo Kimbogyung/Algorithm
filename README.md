@@ -18,19 +18,28 @@
 [HeapSorting](https://github.com/Kimbogyung/Algorithm/blob/main/homework/heapSort.pde)
 ![Alt homework11](homework/heapSort.png)
 
+
+### Homework2
+[SortAnimation_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/SortAnimation_bubble.pde)
+![Alt homework11](homework/SortAnimation_bubble.png)
+
 [Array_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/Array_bubble.pde)
 ![Alt homework11](homework/ArrayBubble.png)
 
+### HOmework3
 [BinarySearchTree](https://github.com/Kimbogyung/Algorithm/blob/main/homework/BinarySearchTree.pde)
 ![Alt homework11](homework/BinarySearchTree.png)
-
-[SortAnimation_bubble](https://github.com/Kimbogyung/Algorithm/blob/main/homework/SortAnimation_bubble.pde)
-![Alt homework11](homework/SortAnimation_bubble.png)
 
 [BinarySearchTree_inorder_preorder_postorder](https://github.com/Kimbogyung/Algorithm/blob/main/homework/BinarySearchTree_inorder_preorder_postorder.pde)
 ![Alt homework11](homework/BinarySearchTree_inorder_preorder_postorder.png)
 
+
+### Homework4
 [Calculator](https://github.com/Kimbogyung/Algorithm/blob/main/homework/calculator.pde)
 ![Alt homework11](homework/calculator.png)
+
+
+### Homework5
+
 
 
